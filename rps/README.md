@@ -9,7 +9,7 @@ Rock, Paper, Scissors is a simple hand game played between two players. Each pla
 If both players choose the same shape, the game is a tie.
 
 # Added feature:
-* Point system
+Point system
 The Feature Point System adds a competitive element to the Rock, Paper, Scissors game, allowing players to accumulate points based on their performance. Here’s how it works:
 
 1) Each win earns the player 1 point.
